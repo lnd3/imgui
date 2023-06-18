@@ -4,6 +4,9 @@
 ## Dear ImGui artifacts
 imgui.ini
 
+## Backend copies
+imgui_impl_*
+
 ## General build artifacts
 *.o
 *.obj
