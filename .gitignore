@@ -12,6 +12,9 @@ examples/*/Debug/*
 examples/*/Release/*
 examples/*/x64/*
 
+## Backend copies
+imgui_impl_*
+
 ## Visual Studio artifacts
 .vs
 ipch
